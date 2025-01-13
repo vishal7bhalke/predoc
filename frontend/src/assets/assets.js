@@ -37,7 +37,7 @@ import Gynecologist from './Gynecologist.png'
 import Neurologist from './Neurologist.png'
 import Pediatricians from './Pediatricians.svg'
 import group_profile_new from './group_profile_new.png'
-import predoc from './predoc.png'
+import predoc from './Predoc.png'
 
 
 
