@@ -46,7 +46,7 @@ import add_icon from './add_icon.svg'
 import people_icon from './people_icon.svg'
 import home_icon from './home_icon.svg'
 import tick_icon from './tick_icon.svg'
-import predoc from './predoc.png'
+import predoc from './Predoc.png'
 
 export const assets = {
     appointment_img,
