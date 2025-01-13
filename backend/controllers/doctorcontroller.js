@@ -1,7 +1,8 @@
 import doctormodel from "../models/doctormodels.js"
 import jwt from 'jsonwebtoken'
 import appointmentmodel from "../models/appointmentmodel.js"
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
+
 
 const changeavailable = async (req, res) => {
     try {
