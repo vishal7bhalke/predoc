@@ -3,8 +3,8 @@ import { Route, Routes } from "react-router-dom";
 import Home from './pages/Home'
 import Login from "./pages/Login";
 import About from "./pages/About";
-import Contact from "./pages/contact";
-import Doctor from "./pages/doctor";
+import Contact from "./pages/Contact";
+import Doctor from "./pages/Doctor";
 import Myprofile from "./pages/Myprofile";
 import Appointment from "./pages/Appointment";
 import Navbar from "./components/Navbar";
